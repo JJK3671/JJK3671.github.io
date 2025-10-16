@@ -24,7 +24,6 @@ Team Bath Heart is an engineering competition team run at the University of Bath
 # Leadership
 For this project I took the role of Mechanical Lead, this involved a competitive application process against my peers. Being lead made me responsible for a team of over 20 engineering students with a smaller dedicated core group with more defined roles.  My main responsibility's included guiding the direction of the project, effective communication between the mechanical team and other disciplines, running weekly meetings to discuss updates and organise the urgent jobs. A smaller role was to be a face for the team, going to outreach events to encourage schoolchildren to gain an interest in engineering, running advertising, recruitment and interviews for new leadership roles within the team and presenting at conferences.
 
-![](/TeamPhoto.JPG)
 {% include image-gallery.html images="TeamPhoto.jpg" height="400" %}
 
 # Conceptual Design

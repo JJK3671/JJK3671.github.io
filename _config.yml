@@ -13,9 +13,9 @@ title: John Doe's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Josh Keenan
-headline: headline message
+headline: Mechanical Engineer (Meng)
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Graduate Mechanical Engineer(Meng) with intrest in data driven engineering for applications in Medical technology, Design and novel Research and Development. Experience in Industry working for Chess Dynamics on high precision Electo-Optical Directors and leadership of award winning engineering competion team developing total artifical hearts.  
+  Graduate Mechanical Engineer(Meng) with intrest in data driven engineering for applications in medical technology, design and novel Research and Development. Experience in Industry working for Chess Dynamics on high precision Electo-Optical Directors and leadership of award winning engineering competion team developing total artifical hearts.  
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg

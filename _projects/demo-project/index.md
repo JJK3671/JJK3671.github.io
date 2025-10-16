@@ -14,7 +14,7 @@ skills:
   - Technical drawings (BS8888)
   - Gravity fed lost wax casting
 
-main-image: /image.jpg
+main-image: ./image.jpg
 ---
 
 ---

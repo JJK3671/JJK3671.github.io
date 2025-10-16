@@ -1,4 +1,3 @@
-![DSC_0068](https://github.com/user-attachments/assets/7bc2c532-8e98-4a58-8022-fdc722ffc21e)---
 layout: post
 title: Team Bath Heart
 description:  Development of a Novel Total Artificial Heart

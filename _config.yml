@@ -13,7 +13,7 @@ title: Josh Keenan's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Josh Keenan
-headline: Mechanical Engineer (Meng)
+headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Graduate Mechanical Engineer(Meng) with intrest in data driven engineering for applications in medical technology, design and novel Research and Development. Experience in Industry working for Chess Dynamics on high precision Electo-Optical Directors and leadership of award winning engineering competion team developing total artifical hearts.  
 
@@ -68,12 +68,12 @@ skills:
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#2d2d2d"
+  border: "#f8e2e2"
+  link: "#ff8fa3"
+  highlight: "#ff4d6d"
+  background: "#fff8f8"
+  light_background: "#fff5f6"
 
 # A few examples. 
 basic theme:

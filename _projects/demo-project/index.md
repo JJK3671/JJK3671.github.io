@@ -14,7 +14,7 @@ skills:
   - Technical drawings (BS8888)
   - Gravity fed lost wax casting
 
-main-image: /project2.jpg
+main-image: /image.jpg
 ---
 
 ---
@@ -25,10 +25,10 @@ Team Bath Heart is an engineering competition team run at the University of Bath
 For this project I took the role of Mechanical Lead, this involved a competitive application process against my peers. Being lead made me responsible for a team of over 20 engineering students with a smaller dedicated core group with more defined roles.  My main responsibility's included guiding the direction of the project, effective communication between the mechanical team and other disciplines, running weekly meetings to discuss updates and organise the urgent jobs. A smaller role was to be a face for the team, going to outreach events to encourage schoolchildren to gain an interest in engineering, running advertising, recruitment and interviews for new leadership roles within the team and presenting at conferences.
 
 # Conceptual Design
- 
+ The core of the design is the mechanism used to pump the fluid. Using Crazy 8 and C-Box Methods as well as un-structured concepting sessions as a team we were able to develop a over 20 individual concepts from basic specifications and brief, developing the most promising of these further and ranking them on a MCDA matrix allowed the selection of a single concept. 
 
 # Ventricle Design
-
+I focused my technical work on design, development and improvement of the artificial ventricles, these are flexible bags that the blood flows into through a valve, the bag then compressed using the mechanism, reducing the volume and pushing the blood out a separate channel with valve. 
 
 # Testing
 
